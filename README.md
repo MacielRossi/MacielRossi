@@ -1,16 +1,24 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋 😜
+
+**Meu nome é Maciel Rossi**
+- estou estudando [Alura](https://alura.com.br)
+- estou me desenvolvendo a linguagem Javascript
+- utilizo este espaço para organização dos meus conteudos
+
+### Voce entra em contato comigo 💟
+
+- email
+  
+- macielrossi@professor.educacao.sp.gov.br
 
 
-**MacielRossi/MacielRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media1.tenor.com/m/tkCaD5v-jdEAAAAC/saitama-anime.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
 
